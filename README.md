@@ -1,8 +1,8 @@
 ## 功能介绍 
     
- 地产开盘小程序, 功能包括预约看房，楼盘项目介绍，楼盘户型，置业顾问介绍，微楼书，楼盘最新活动等，采用腾讯提供的小程序云开发解决方案，无须服务器和域名
+ 万科新楼盘开盘小程序， 功能包括预约看房，楼盘项目介绍，楼盘户型，置业顾问介绍，微楼书， 楼盘最新活动等，采用腾讯提供的小程序云开发解决方案，无须服务器和域名
  
-![输入图片说明](demo/A04%E6%88%BF%E4%BA%A7.png)
+![image](https://user-images.githubusercontent.com/101155347/157247502-7cca3fd6-dd72-4885-be49-e6886f9c0592.png)
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -11,35 +11,40 @@
 - 云开发技术采用腾讯内部链路，没有被黑客攻击的风险，安全性高且免维护。
 - 资源承载力可根据业务发展需要随时弹性扩展。  
 
-## 作者
-- 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知
-- 俺的微信:
- 
-![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
+ ![image](https://user-images.githubusercontent.com/101155347/157247490-4d19654c-4c79-441b-a515-b10c79701f4e.png)
+
 
 ## 演示
 
-![输入图片说明](demo/A04%E6%88%BF%E4%BA%A7.png)
-
+ 
 ## 安装
 
 - 安装手册见源码包里的word文档
 
 
 ## 截图
-![输入图片说明](demo/cec3e0d057f93e5991e34f32a8c7adc.png)
-![输入图片说明](demo/c415dedd31f6d7bf93d667ef133124a.png)
- ![输入图片说明](demo/6500bab964f196e76b0999489d783a0.png)
-![输入图片说明](demo/9fa4dfdfc3426734bbd9a0545e6512c.png)
-![输入图片说明](demo/d7b7223b95794bbf511a6e96036e995.png)
-![输入图片说明](demo/a79ca0d82792f426b0b963d81495b82.png)
-![输入图片说明](demo/84658e1d5b57129346ce574e19db930.png)
-![输入图片说明](demo/21e46bee8d19acd75cf7bfca66145f2.png)
-![输入图片说明](demo/c45284bbe5685104a8e2dc213f2ac42.png)
-![输入图片说明](demo/5153f1f4692bf6a002513911f0d2f1b.png)
-![输入图片说明](demo/932a45be38f0436e7c3dfafb96e0463.png)
-![输入图片说明](demo/b58ed09ccb96ae6a1243de1e0c48993.png)
-![输入图片说明](demo/b039566501b4005ea4f03f941ffd9e5.png)
-![输入图片说明](demo/c08636184af8f3c4cc0738d7bdeaf12.png)
-![输入图片说明](demo/f3373af88bf3b52521d68c27187ec61.png)
+ 
+
+![image](https://user-images.githubusercontent.com/101155347/157247517-0f5ece56-f1cf-4248-990f-7bb820fab4f5.png)
+![image](https://user-images.githubusercontent.com/101155347/157247523-18ac1c09-9c8e-426c-9f4c-15eb941dd715.png)
+![image](https://user-images.githubusercontent.com/101155347/157247531-2dbadfdb-d82c-4d99-a3d3-fc124895715b.png)
+![image](https://user-images.githubusercontent.com/101155347/157247539-611eb8ab-d26c-41c7-b2e9-7ad92abfb0b3.png)
+![image](https://user-images.githubusercontent.com/101155347/157247550-4f742b09-b131-481d-a4f6-a1e41105b1bd.png)
+![image](https://user-images.githubusercontent.com/101155347/157247561-cc8f008f-d66d-4902-b617-002bfdc2721c.png)
+![image](https://user-images.githubusercontent.com/101155347/157247572-749b3f46-9af9-4e3c-924a-4a9aaa29a3c0.png)
+![image](https://user-images.githubusercontent.com/101155347/157247581-e6f3d521-8db1-451c-bf24-1d6e51c7b0bc.png)
+![image](https://user-images.githubusercontent.com/101155347/157247592-a22b659a-f7fd-47d4-8ee8-b2e5abb53fdb.png)
+![image](https://user-images.githubusercontent.com/101155347/157247597-eefa64e4-a357-4ef3-ba27-819f1bd49a3b.png)
+![image](https://user-images.githubusercontent.com/101155347/157247607-98370294-6fce-41eb-b338-955ec96aa71f.png)
+![image](https://user-images.githubusercontent.com/101155347/157247615-7b690b02-dd4e-4792-b8b9-921ff0af74a2.png)
+![image](https://user-images.githubusercontent.com/101155347/157247632-90a2cc98-f392-466f-97e9-7532afc61d09.png)
+![image](https://user-images.githubusercontent.com/101155347/157247642-4038fb9b-b6ec-4120-b1e2-f5f38ef8d5f9.png)
+![image](https://user-images.githubusercontent.com/101155347/157247652-82582739-76df-4491-b070-056a0bedbbe9.png)
+
+
+
+
+
+
+
 
